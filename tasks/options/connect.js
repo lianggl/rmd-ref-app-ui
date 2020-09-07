@@ -12,7 +12,7 @@ var config = {
 
         clientId: '3',
         clientSecret: 'vDpwHVndJe6XWezb61GT8XdVjDFLDORAtISBoXtX',
-        serverUrl: 'http://bwttest01.neuseer.cn',
+        serverUrl: 'http://bwtuua-bwt-project.neuseer.cn',
         redirect_uri: 'http://bwttest01.neuseer.cn/callback',
         defaultClientRoute: '/about'
 
